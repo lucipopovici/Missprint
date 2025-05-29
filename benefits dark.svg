@@ -1,18 +1,18 @@
-<svg width="1920" height="1920" viewBox="0 0 1920 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1920" height="538" viewBox="0 0 1920 538" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_503_2)">
-<rect width="1920" height="1920" fill="#2D152D"/>
-<path d="M1861 1022C1607.97 1101.07 913.727 1257.94 161 1252.88" stroke="#FDFDF7"/>
-<path d="M1802.5 820C1562.57 927.136 884.763 1233.36 171 1226.5" stroke="#FDFDF7"/>
-<path d="M1773 524C1656.23 728.472 1051.87 1147.77 311 1140.92" stroke="#FDFDF7"/>
-<path d="M1859 193.373C1746.5 397.873 1252.5 884.5 539.5 970" stroke="#FDFDF7"/>
-<path d="M1902.19 -506.521C1894.75 -273.238 1651.92 370.974 1012.77 688.776" stroke="#FDFDF7"/>
-<path d="M1857 1141C1603.67 1187.89 908.613 1280.93 155 1277.93" stroke="#FDFDF7"/>
-<path d="M1857 1222C1603.67 1251.78 908.613 1310.86 155 1308.95" stroke="#FDFDF7"/>
-<path d="M1851 1278C1597.97 1299.56 903.727 1342.35 151 1340.97" stroke="#FDFDF7"/>
+<rect width="1920" height="538" fill="#2D152D"/>
+<path d="M1861 351C1607.97 385.571 913.727 454.16 161 451.948" stroke="#FDFDF7"/>
+<path d="M1803 263C1562.99 309.9 884.981 443.952 171 440.95" stroke="#FDFDF7"/>
+<path d="M1773 134C1656.23 223.146 1051.87 405.953 311 402.964" stroke="#FDFDF7"/>
+<path d="M1859 -10C1746.54 79.2649 1252.73 291.679 540 329" stroke="#FDFDF7"/>
+<path d="M1902.19 -316C1894.75 -214.167 1651.92 67.044 1012.77 205.771" stroke="#FDFDF7"/>
+<path d="M1857 403C1603.67 423.537 908.613 464.283 155 462.969" stroke="#FDFDF7"/>
+<path d="M1857 439C1603.67 452.007 908.613 477.813 155 476.98" stroke="#FDFDF7"/>
+<path d="M1851 463C1597.97 472.242 903.727 490.578 151 489.986" stroke="#FDFDF7"/>
 </g>
 <defs>
 <clipPath id="clip0_503_2">
-<rect width="1920" height="1920" fill="white"/>
+<rect width="1920" height="538" fill="white"/>
 </clipPath>
 </defs>
 </svg>
